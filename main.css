@@ -1,12 +1,7 @@
-html {
-    margin: 0;
-    padding: 0;
-    color: whitesmoke;
-    font-family: 'Sulphur Point', sans-serif;
-}
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Sulphur Point', sans-serif;
 }
 header{
     background-color: #212A3E;
